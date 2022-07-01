@@ -1,0 +1,25 @@
+.article {
+    margin: 40px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.article h4 {
+    color: #d23669;
+}
+
+h4 {
+    font-size: 1.4em;
+}
+
+h5 {
+    font-style: italic;
+    font-size: 1.0em;
+}
+
+.article,
+h5 {
+    font-weight: 200;
+}

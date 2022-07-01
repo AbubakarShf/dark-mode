@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.toggle-btn {
+    width: 40px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1em;
+    font-weight: 500;
+    color: white;
+    background-color: #d23669;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #ec5b8c;
+}
